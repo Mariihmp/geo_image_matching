@@ -1,0 +1,9 @@
+matching/tests/1/regoins_segments
+matching/tests/2_rotated/regoins_segments
+satlite_gap/
+
+# Ignore Python cache, system files
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
